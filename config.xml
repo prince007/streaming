@@ -64,9 +64,7 @@
     <gap:plugin name="org.apache.cordova.vibration" />
 	
     <!-- Third party plugins -->
-	<gap:plugin name="com.dawsonloudon.videoplayer" />
-	<gap:plugin name="jaeger.Html5Video" />
-	<gap:plugin name="com.phonegap.plugins.video" />
+	
 	
     <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->
     <!--
